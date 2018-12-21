@@ -4,7 +4,7 @@ Sample application for money transfer
 A Java RESTful API for money transfers between 2 accounts. I tried to keep the application simple.
 
 Technologies
-
+===
 
 <b>NanoHTTPD</b> – a tiny web server in Java
 
@@ -21,10 +21,12 @@ Technologies
 
 
 How to build the application
+===
 
 mvn clean install
 
 How to run
+===
 
 mvn exec:java
 
