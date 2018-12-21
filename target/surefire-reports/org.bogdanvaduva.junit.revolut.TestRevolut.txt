@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.bogdanvaduva.junit.revolut.TestRevolut
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.146 sec
