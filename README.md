@@ -1,7 +1,7 @@
 Sample application for money transfer
 =====================
 
-A Java RESTful API for money transfers between 2 accounts
+A Java RESTful API for money transfers between 2 accounts. I tried to keep the application simple.
 
 Technologies
 
@@ -29,6 +29,8 @@ NOTE
 You can open the project with NetBeans
 
 
-TO DO: Improve sample application by using H2 in memory database - for the first version I didn't had the time 
+TO DO
 ====
+
+Improve application by using H2 in memory database - for the first version I didn't had the time 
 
