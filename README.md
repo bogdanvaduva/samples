@@ -6,17 +6,17 @@ A Java RESTful API for money transfers between 2 accounts. I tried to keep the a
 Technologies
 
 
-NanoHTTPD – a tiny web server in Java
+<b>NanoHTTPD</b> – a tiny web server in Java
 
 [ServiceKit](https://github.com/Pyknic/ServiceKit) for NanoHTTPD - a little bit modified to allow path for web-services
 
 	    A lightweight java-library that use annotations to create web-services from ordinary java methods.
 
-Gson is a Java library that can be used to convert Java Objects into their JSON representation.
+<b>Gson</b> is a Java library that can be used to convert Java Objects into their JSON representation.
 
-JUnit is a unit testing framework for the Java programming language
+<b>JUnit</b> is a unit testing framework for the Java programming language
 
-Apache HTTP Client
+<b>Apache HTTP Client</b>
 
 
 
